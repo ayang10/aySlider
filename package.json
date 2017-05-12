@@ -1,0 +1,14 @@
+{
+  "name": "ayslider",
+  "version": "1.0.0",
+  "description": "image slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acer Yang",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

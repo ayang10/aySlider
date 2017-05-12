@@ -5,7 +5,7 @@
             speed : 2000,
             pause : 1000,
             transition : 'slide'
-        },
+        };
 
         options = $.extend(defaults, options);
 
